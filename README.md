@@ -5,6 +5,29 @@
 
 Como dono de uma farmácia, quero que meus clientes calculem o IMC sem minha ajuda.
 
+## Análise de Requisitos
+
+Questões levantadas: 
+
+    1. Quais dados de entrada eu preciso para resolver meu problema?
+        - Peso 
+        - Altura
+        - Idade
+
+    2. O que eu preciso fazer com estes dados?
+        - dividir o peso pela altura ao quadrado.
+
+    3. Quais as restrições e/ou regras do negócio do meu problema?
+        - Dados obrigatorios (peso e altura);
+        - Altura tem que ser maior que 0;
+        - Peso deve ser maior que 0;
+        - Caso tenha idade, que seja maior que 0;
+        - Os dados precisam ser numericos;
+        - Retornar o feedback de IMC;
+
+    4. Qual o resultado esperado?
+        - Calculo do imc
+
 ## Iniciando
 
 ### Dependências
@@ -23,8 +46,7 @@ Como dono de uma farmácia, quero que meus clientes calculem o IMC sem minha aju
 
 Nomes dos colaboradores e informações de contato:
 
-Henrique H. da Silva  
-[henriquehsilva](https://github.com/henriquehsilva)
+Henrique H. da Silva | [henriquehsilva](https://github.com/henriquehsilva)
 
 ## Licença
 
