@@ -42,9 +42,6 @@ Questões levantadas:
 
 * Abra o arquivo index.html no browser
 
-[![Demo](https://www.loom.com/embed/8fc9111be0734b20b2b262ce11999324)
-
-
 ## Autores
 
 Nomes dos colaboradores e informações de contato:
